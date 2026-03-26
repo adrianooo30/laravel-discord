@@ -6,6 +6,8 @@ Here's a structured breakdown of everything built in the tutorial, organized by 
 
 ---
 
+https://excalidraw.com/#room=ae280c004df5bbb36d0a,uJPsl_pnHlrZpeXnKRJ7wg
+
 ## Feature Categories
 
 ### 1. Authentication & User Management
